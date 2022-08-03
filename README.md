@@ -91,24 +91,8 @@ cd build
 cmake ..
 make 
 ```
-### 10 executables are created, use one of the commands to run an executable:
+### 2 executables are created, use one of the commands to run an executable:
 ```c++
-// composite pattern
-./lab3_tests
-./lab3
-
-// strategy pattern
-./lab4_tests
-./lab4
-
-// decorator pattern
-./lab5_tests
-./lab5
-
-// factory pattern
-./lab6_tests
-./calculator
-
 // visitor pattern
 ./lab7_tests
 ./lab7
